@@ -213,4 +213,4 @@ test/
 tests/
 
 # daily mails
-daily_*.*
+daily_*.json
