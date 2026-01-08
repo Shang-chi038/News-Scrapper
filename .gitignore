@@ -212,5 +212,6 @@ test_*.py
 test/
 tests/
 
-# daily mails
-daily_*.json
+
+# Project output files
+daily_news.json
