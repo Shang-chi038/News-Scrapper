@@ -22,7 +22,7 @@ class TechCrunchScraper:
         
         include_keywords = [
             'funding', 'raises', 'acquisition', 'merger', 'ipo',
-            'launch', 'partnership', 'deal', 'investment', 'startup', 
+            'launch', 'partnership', 'deal', 'investment', 'startup',
             'revenue', 'valuation', 'series', 'venture', 'acquires'
         ]
         

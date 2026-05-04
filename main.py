@@ -15,8 +15,8 @@ def main():
     
     scrapers = [
         ChannelsNewsScraper(),
-        # TechCrunchScraper(),
-        # HackerNewsScraper()
+        TechCrunchScraper(),
+        HackerNewsScraper()
     ]
     
     # Initialize aggregator
