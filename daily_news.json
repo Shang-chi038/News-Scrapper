@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Channels TV Nigeria": [
     {
@@ -77,4 +78,85 @@
       "source": "Hacker News"
     }
   ]
+=======
+{
+  "Channels TV Nigeria": [
+    {
+      "title": "Police Won’t Disclose Details Of US Strikes In Nigeria, Says Hundeyin",
+      "link": "https://www.channelstv.com/2026/01/13/police-wont-disclose-details-of-us-strikes-in-nigeria-says-hundeyin/",
+      "excerpt": "On December 25, 2025, the US launched strikes against terrorists in Sokoto, which led to the killing of “multiple ISIS terrorists”.",
+      "source": "Channels TV Nigeria"
+    },
+    {
+      "title": "JAMB Announces Sale Of 2026 UTME, Direct Entry Forms",
+      "link": "https://www.channelstv.com/2026/01/13/jamb-announces-sale-of-2026-utme-direct-entry-forms/",
+      "excerpt": "",
+      "source": "Channels TV Nigeria"
+    },
+    {
+      "title": "Ekpoma Protests: Okpebholo Approves Release Of Arrested Persons",
+      "link": "https://www.channelstv.com/2026/01/13/ekpoma-protests-okpebholo-approves-release-of-arrested-suspects/",
+      "excerpt": "",
+      "source": "Channels TV Nigeria"
+    },
+    {
+      "title": "Nigeria To Co-Host Investopia With UAE, Seals Trade Pact",
+      "link": "https://www.channelstv.com/2026/01/13/nigeria-to-co-host-investopia-with-uae-seals-trade-pact/",
+      "excerpt": "",
+      "source": "Channels TV Nigeria"
+    },
+    {
+      "title": "Security Operatives Rescued 309 Hostages, Killed 55 Terrorists In Kogi, Kwara — Police",
+      "link": "https://www.channelstv.com/2026/01/13/security-operatives-rescued-309-hostages-killed-55-terrorists-in-kogi-kwara-police/",
+      "excerpt": "",
+      "source": "Channels TV Nigeria"
+    }
+  ],
+  "TechCrunch": [
+    {
+      "title": "New York governor clears path for robotaxis everywhere, with one notable exception",
+      "link": "https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/",
+      "excerpt": "New York City will be a notable exclusion from proposed legislation to legalize commercial robotaxis across the state.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+      "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+      "excerpt": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
+      "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+      "excerpt": "A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ammobia says it has reinvented a century-old technology",
+      "link": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
+      "excerpt": "The startup has a new take on the Haber-Bosch process used to make ammonia. If Ammobia can deliver, it could change industries, from power generation to maritime shipping.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
+      "link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+      "excerpt": "AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”",
+      "source": "TechCrunch"
+    }
+  ],
+  "Hacker News": [
+    {
+      "title": "There's a ridiculous amount of tech in a disposable vape",
+      "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+      "excerpt": "Points: 131 | Comments: 105",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ASCII Clouds",
+      "link": "https://caidan.dev/portfolio/ascii_clouds/",
+      "excerpt": "Points: 84 | Comments: 15",
+      "source": "Hacker News"
+    }
+  ]
+>>>>>>> 8aefad5 (I included test files so that I can move all my)
 }
